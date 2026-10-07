@@ -1,0 +1,13 @@
+{
+  "version": "v1.0.0 Public Portfolio Edition",
+  "synthetic_fixture_workbooks": 9,
+  "files_found": 7,
+  "files_excluded": 2,
+  "records": 6,
+  "length_qa": {
+    "ok_rows": 4,
+    "over_30_rows": 1,
+    "blank_rows": 1
+  },
+  "exception_count": 1
+}
